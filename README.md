@@ -1,2 +1,2 @@
 # Simple-calculator
-This is a simple calculator I made using javascript.
+This is a simple calculator I made while learning javascript.
